@@ -1,0 +1,6 @@
+{
+  "name": "Local Info Display",
+  "description": "Benign local application that displays the user's IP, time, and device info back to them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
